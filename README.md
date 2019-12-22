@@ -9,7 +9,7 @@ Technologies used:
   - Numpy
 
 
-<img src="Pics/1.jpg" alt="drawing" width="200"/>
+<img src="Pics/1.jpg" alt="" width="200"/>
  
 
 License
