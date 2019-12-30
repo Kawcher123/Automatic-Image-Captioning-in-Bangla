@@ -1,6 +1,7 @@
 # Automatic Image Captioning in Bengali
 
-![Screenshot](1.jpg)
+![Screenshot](1.png)
+
 Technologies used:
   - Python
   - Keras
@@ -9,10 +10,10 @@ Technologies used:
   - Numpy
   
   
-  [Screenshot](2.jpg)
+  ![Screenshot](2.png)
   
   
-[Screenshot](Pics/1.jpg)
+![Screenshot](Pics/1.jpg)
 
 <img src="Pics/1.jpg" alt="" width="200"/>
  
